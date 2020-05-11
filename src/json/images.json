@@ -1,0 +1,38 @@
+[
+    {
+        "name": "field",
+        "x": 50,
+        "y": 100,
+        "path": "./img/field-1400x700.png"
+    },
+    {
+        "name": "blue-circle-1",
+        "x": 200,
+        "y": 20,
+        "path": "./img/blue-circle-big.png"
+    },
+    {
+        "name": "blue-circle-2",
+        "x": 240,
+        "y": 20,
+        "path": "./img/blue-circle-big.png"
+    },
+    {
+        "name": "blue-circle-3",
+        "x": 280,
+        "y": 20,
+        "path": "./img/blue-circle-big.png"
+    },
+    {
+        "name": "blue-circle-4",
+        "x": 320,
+        "y": 20,
+        "path": "./img/blue-circle-big.png"
+    },
+    {
+        "name": "blue-circle-5",
+        "x": 260,
+        "y": 20,
+        "path": "./img/blue-circle-big.png"
+    }
+]
